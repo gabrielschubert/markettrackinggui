@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Update.png</file>
+        <file>Images/rsz_red_arrow_downsvg.png</file>
+        <file>Images/rsz_greenarrow.png</file>
+        <file>Images/ImageJ.png</file>
+        <file>Images/Court_top_View_draw.jpg</file>
+        <file>Images/Court_top_View.jpg</file>
+        <file>Images/closed_folder.png</file>
+        <file>Images/Store_top_view.jpg</file>
+    </qresource>
+</RCC>
